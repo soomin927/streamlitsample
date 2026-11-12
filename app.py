@@ -8,7 +8,7 @@ from io import BytesIO
 # --------------------------------------------------
 st.set_page_config(
     page_title="Multilingual TTS",
-    page_icon="🔊",
+    page_icon="❄️",
     layout="centered"
 )
 
